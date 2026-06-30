@@ -75,6 +75,7 @@ export default async function HomePage() {
             <a href="#asistente" className="hover:text-brand-700">Asistente IA</a>
             <a href="#categorias" className="hover:text-brand-700">Categorías</a>
             <a href="#catalogo" className="hover:text-brand-700">Catálogo</a>
+            <a href="/blog" className="hover:text-brand-700">Blog</a>
             <a href="#faq" className="hover:text-brand-700">Preguntas</a>
           </nav>
           <a href="#asistente" className="btn-primary !py-2.5 !px-4 text-xs sm:text-sm">
